@@ -1,3 +1,2 @@
-# bookSwap
-
-Created By Nicole Stewart and Yvette Green
+# WebDevReact
+Front end of MERN project
